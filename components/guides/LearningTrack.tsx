@@ -123,7 +123,8 @@ export const LearningTrack = ({ track }: Props) => {
           </button>
         ) : (
           <div />
-        )}
+        )
+        }
       </div>
     </div>
   )
